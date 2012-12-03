@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/horario_materia"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/horario_hora"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/aula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/horario_materia"
+        android:text=""
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

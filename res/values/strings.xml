@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">UPSLP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_upslp">Upslp</string>
+    <string name="getting_info">Obteniendo informacion </string>
+    <string name="carrera">Carrera</string>
+    <string name="horario">Horario</string>
+    <string name="calificaciones">Calificaciones</string>
+    <string name="faltas">Faltas</string>
+    <string name="logo_desc">Logo de la universidad Politecnica de San Luis Potosi</string>
+    <string name="sem1">Semestre 1</string>
+    <string name="sem2">Semestre 2</string>
+    <string name="sem3">Semestre 3</string>
+    <string name="sem4">Semestre 4</string>
+    <string name="sem5">Semestre 5</string>
+    <string name="sem6">Semestre 6</string>
+    <string name="sem7">Semestre 7</string>
+    <string name="sem8">Semestre 8</string>
+    <string name="sem9">Semestre 9</string>
+    <string name="Lunes">Lunes</string>
+    <string name="Martes">Martes</string>
+    <string name="Miercoles">Miercoles</string>
+    <string name="Jueves">Jueves</string>
+    <string name="Viernes">Viernes</string>
+    <string name="Sabado">Sabado</string>
+    <string name="parcial1">Parcial 1</string>
+    <string name="parcial2">Parcial 2</string>
+    <string name="parcial3">Parcial 3</string>
+    <string name="finalcal">Final</string>
+    <string name="extra">Extra</string>
+    <string name="regu">Regu</string>
+    <string name="exfinal">Examen Final</string>
+    <string name="zero">0</string>
+    <string name="reticula">Retícula</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="acceder">Acceder</string>
+    <string name="matricula">Matricula</string>
+
+
+</resources>
